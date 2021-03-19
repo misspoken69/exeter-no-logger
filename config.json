@@ -1,0 +1,11 @@
+{
+    "token": "PUT_TOKEN_HERE",
+    "prefix": "!",
+    "password": "PUT_PASS_HERE",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "PUT_TWITCH_HERE",
+    "tts_language": "en"
+}
